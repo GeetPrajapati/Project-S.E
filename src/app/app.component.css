@@ -1,0 +1,46 @@
+.container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.section-title {
+  margin-top: 50px;
+}
+
+.product-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.product-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+}
+
+.product-name {
+  flex: 1;
+}
+
+.add-product-form {
+  margin-top: 40px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.container {
+  height: 1080px;
+  
+  background-image: url("C:\Users\parth\Desktop\Logo\se2.jpg");
+  background-size: cover;
+}
